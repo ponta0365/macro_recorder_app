@@ -8,7 +8,7 @@
 4. `README.md` と `install.txt` の表記を必要に応じて更新する。
 5. Git で変更を commit して push する。
 6. GitHub PR を確認して必要ならマージする。
-7. `gh release create v0.1.1 macro_recorder_release.zip --title "v0.1.1" --notes-file release_notes_v0.1.1.md` のように新しい Release を作る。
+7. `release_notes_v0.1.1.md` を整えてから、`gh release create v0.1.1 macro_recorder_release.zip --title "v0.1.1" --notes-file release_notes_v0.1.1.md` のように新しい Release を作る。
 
 注意:
 - 配布用 zip はリポジトリに含めるが、更新内容を変えたあとに必ず作り直す。

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.macro_recorder_recent.json
+launch.log
+macro_recorder_release.zip
